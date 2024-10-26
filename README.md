@@ -25,4 +25,4 @@ Make sure you have the following installed:
 
 ## 📷 Screenshots
 
-![Screenshot of the app](https://github.com/Nickss5/todo-FullStack/blob/main/snapshot_app.png)
+![Screenshot of the app](https://github.com/Nickss5/CultureLinkr-Backend-Assignment/blob/main/snapshot.png)
